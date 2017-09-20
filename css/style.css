@@ -1,0 +1,21 @@
+body{
+background-color:#01FE82;
+}
+.box1{
+text-align:left;
+}
+.box1 span{
+font-size:50px;
+}
+.box2{
+text-align:center;
+}
+.box2 span{
+font-size:50px;
+}
+.box3{
+text-align:right;
+}
+.box3 span{
+font-size:50px;
+}
